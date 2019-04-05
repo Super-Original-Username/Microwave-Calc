@@ -1,0 +1,1 @@
+This was a dumb little project that I decided to do when I noticed that microwavable food from Japanese convenience stores have times for 500 and 1500 watt microwaves. Since there can be a lot of variance in a microwave's power (the microwave in my apartment is 700W, for instance), I made this to make time conversions a little bit easier.
