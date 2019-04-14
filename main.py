@@ -5,6 +5,7 @@ from PyQt5.QtGui import *
 from PyQt5.QtWidgets import *
 import math
 import sys
+import keyboard
 
 class Unbuffered:
 
@@ -28,8 +29,7 @@ class MainWindow(Ui_MainWindow):
 
         self.setupUi(dialog)
         self.conv_btn.clicked.connect(self.converter)
-
-
+        
 
     def converter(self):
         base = self.initial_t.text()
